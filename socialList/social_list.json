@@ -46,6 +46,18 @@
 			"app_name": "Linked In",
 			"app_link": "https://www.linkedin.com",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/linkedin.png"
-		}
+		},
+
+		{
+			"app_name": "Wikipedia",
+			"app_link": "https://www.wikipedia.org",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wikipedia.png"
+		},
+
+		{
+			"app_name": "Quora",
+			"app_link": "https://www.quora.com",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/quora.png"
+		},
 	]
 }
