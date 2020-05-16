@@ -1,8 +1,27 @@
 {
 	"social": [
 		{
+			"app_name": "Goole",
+			"app_link": "https://www.google.com",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/google.png"
+		},
+
+		{
 			"app_name": "Facebook",
+			"app_link": "https://m.facebook.com",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/facebook.png"
+		}, 
+
+		{
+			"app_name": "Instagram",
+			"app_link": "https://www.instagram.com",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/instagram.png"
+		},
+
+		{
+			"app_name": "Twitter",
+			"app_link": "https://mobile.twitter.com",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/twitter.png"
 		}
 	]
 }
