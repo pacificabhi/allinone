@@ -2,57 +2,57 @@
 	"categories": [
 		{
 			"category": "social",
-			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/social.png",
+			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/social.png"
 		},
 
 		{
 			"category": "media",
-			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/media.png",
+			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/media.png"
 		},
 
 		{
 			"category": "shopping",
-			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/shopping.png",
+			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/shopping.png"
 		},
 
 		{
 			"category": "news",
-			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/news.png",
+			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/news.png"
 		},
 
 		{
 			"category": "sports",
-			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/sports.png",
+			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/sports.png"
 		},
 
 		{
 			"category": "education",
-			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/education.png",
+			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/education.png"
 		},
 
 		{
 			"category": "jobs",
-			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/jobs.png",
+			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/jobs.png"
 		},
 
 		{
 			"category": "blogs",
-			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/blogs.png",
+			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/blogs.png"
 		},
 
 		{
 			"category": "email",
-			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/email.png",
+			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/email.png"
 		},
 
 		{
 			"category": "search_engine",
-			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/search.png",
+			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/search.png"
 		},
 
 		{
 			"category": "travel",
-			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/travel.png",
+			"icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/travel.png"
 		}
 	],
 
