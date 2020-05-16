@@ -1,63 +1,137 @@
 {
+	"categories": [
+		{
+			"category": "social",
+			"icon": "",
+		},
+
+		{
+			"category": "media",
+			"icon": "",
+		},
+
+		{
+			"category": "shopping",
+			"icon": "",
+		},
+
+		{
+			"category": "news",
+			"icon": "",
+		},
+
+		{
+			"category": "sports",
+			"icon": "",
+		},
+
+		{
+			"category": "education",
+			"icon": "",
+		},
+
+		{
+			"category": "jobs",
+			"icon": "",
+		},
+
+		{
+			"category": "blogs",
+			"icon": "",
+		},
+
+		{
+			"category": "email",
+			"icon": "",
+		},
+
+		{
+			"category": "search_engine",
+			"icon": "",
+		},
+
+		{
+			"category": "travel",
+			"icon": "",
+		}
+	],
+
 	"social": [
 		{
 			"app_name": "Google",
 			"app_link": "https://www.google.com",
+			"category": "social",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/google.png"
 		},
 
 		{
 			"app_name": "Facebook",
 			"app_link": "https://m.facebook.com",
+			"category": "social",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/facebook.png"
 		}, 
 
 		{
 			"app_name": "Instagram",
 			"app_link": "https://www.instagram.com",
+			"category": "social",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/instagram.png"
 		},
 
 		{
 			"app_name": "Twitter",
 			"app_link": "https://mobile.twitter.com",
+			"category": "social",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/twitter.png"
 		},
 
 		{
 			"app_name": "Snapchat",
 			"app_link": "https://accounts.snapchat.com",
+			"category": "social",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/snapchat.png"
 		},
 
 		{
 			"app_name": "Telegram",
 			"app_link": "https://web.telegram.org",
+			"category": "social",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/telegram.png"
 		},
 
 		{
 			"app_name": "YouTube",
 			"app_link": "https://m.youtube.com",
+			"category": "media",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/youtube.png"
 		},
 
 		{
 			"app_name": "Linked In",
 			"app_link": "https://www.linkedin.com",
+			"category": "jobs",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/linkedin.png"
 		},
 
 		{
 			"app_name": "Wikipedia",
 			"app_link": "https://www.wikipedia.org",
+			"category": "education",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wikipedia.png"
 		},
 
 		{
 			"app_name": "Quora",
 			"app_link": "https://www.quora.com",
+			"category": "education",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/quora.png"
+		}, 
+
+		{
+			"app_name": "Medium",
+			"app_link": "https://medium.com",
+			"category": "education",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/medium.png"
 		}
 	]
 }
