@@ -1,8 +1,8 @@
 {
 	"social": [
 		{
-		"name": "Facebook",
-		"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/facebook.png"
+			"app_name": "Facebook",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/facebook.png"
 		}
 	]
 }
