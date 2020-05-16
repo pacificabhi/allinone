@@ -3,7 +3,7 @@
 		{
 			"app_name": "Google",
 			"app_link": "https://www.google.com",
-			"category": "social",
+			"category": "search_engine",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/google.png"
 		},
 
@@ -75,13 +75,32 @@
 			"app_link": "https://medium.com",
 			"category": "education",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/medium.png"
-		}
+		},
+
+        {
+            "app_name": "Tumblr",
+            "app_link": "https://www.tumblr.com",
+            "category": "social",
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tumblr.png"
+        },
+
+        {
+            "app_name": "Tinder",
+            "app_link": "https://tinder.com",
+            "category": "dating",
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tinder.png"
+        }
 	],
 
     "categories": [
         {
             "category": "social",
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/social.png"
+        },
+
+        {
+            "category": "dating",
+            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/dating.png"
         },
 
         {
