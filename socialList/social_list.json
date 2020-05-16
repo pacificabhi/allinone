@@ -1,7 +1,7 @@
 {
 	"social": [
 		{
-			"app_name": "Goole",
+			"app_name": "Google",
 			"app_link": "https://www.google.com",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/google.png"
 		},
@@ -22,6 +22,30 @@
 			"app_name": "Twitter",
 			"app_link": "https://mobile.twitter.com",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/twitter.png"
+		},
+
+		{
+			"app_name": "Snapchat",
+			"app_link": "https://accounts.snapchat.com",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/snapchat.png"
+		},
+
+		{
+			"app_name": "Telegram",
+			"app_link": "https://web.telegram.org",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/telegram.png"
+		},
+
+		{
+			"app_name": "YouTube",
+			"app_link": "https://m.youtube.com",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/youtube.png"
+		},
+
+		{
+			"app_name": "Linked In",
+			"app_link": "https://www.linkedin.com",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/linkedin.png"
 		}
 	]
 }
