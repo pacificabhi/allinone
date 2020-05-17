@@ -310,72 +310,109 @@
             "category": "music",
             "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/spotify.png"
+        },
+
+        {
+            "app_name": "Sportskeeda",
+            "app_link": "https://www.sportskeeda.com/",
+            "category": "sports",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/sportskeeda.png"
+        },
+
+        {
+            "app_name": "Cricinfo",
+            "app_link": "https://www.espncricinfo.com/",
+            "category": "sports",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/espncricinfo.jpeg"
+        },
+
+        {
+            "app_name": "Cricbuzz",
+            "app_link": "https://m.cricbuzz.com/",
+            "category": "sports",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/cricbuzz.png"
         }
 	],
 
     "categories": [
         {
             "category": "social",
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/social.png"
         },
 
         {
             "category": "dating",
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/dating.png"
         },
 
         {
             "category": "videos",
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/videos.png"
         },
 
         {
             "category": "music",
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/music.png"
         },
 
         {
             "category": "shopping",
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/shopping.png"
         },
 
         {
             "category": "news",
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/news.png"
         },
 
         {
             "category": "sports",
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/sports.png"
         },
 
         {
             "category": "education",
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/education.png"
         },
 
         {
             "category": "jobs",
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/jobs.png"
         },
 
         {
             "category": "blogs",
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/blogs.png"
         },
 
         {
             "category": "email",
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/email.png"
         },
 
         {
             "category": "search_engine",
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/search.png"
         },
 
         {
             "category": "travel",
+            "priority": 10,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/travel.png"
         }
     ]
