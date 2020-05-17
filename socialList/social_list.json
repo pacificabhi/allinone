@@ -75,7 +75,7 @@
 		{
 			"app_name": "Quora",
 			"app_link": "https://www.quora.com",
-			"category": "education",
+			"category": "blogs",
             "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/quora.png"
 		}, 
@@ -83,7 +83,7 @@
 		{
 			"app_name": "Medium",
 			"app_link": "https://medium.com",
-			"category": "education",
+			"category": "blogs",
             "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/medium.png"
 		},
@@ -190,6 +190,30 @@
             "category": "shopping",
             "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/olx.png"
+        },
+
+        {
+            "app_name": "Sky Scanner",
+            "app_link": "https://www.skyscanner.com",
+            "category": "travel",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/skyscanner.png"
+        },
+
+        {
+            "app_name": "Make My Trip",
+            "app_link": "https://www.makemytrip.com",
+            "category": "travel",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/makemytrip.png"
+        },
+
+        {
+            "app_name": "Trip Advisor",
+            "app_link": "https://www.tripadvisor.com",
+            "category": "travel",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tripadvisor.png"
         }
 	],
 
