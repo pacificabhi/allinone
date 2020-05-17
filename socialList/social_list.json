@@ -238,6 +238,78 @@
             "category": "travel",
             "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/couchsurfing.png"
+        },
+
+        {
+            "app_name": "BBC News",
+            "app_link": "https://www.bbc.com/news",
+            "category": "news",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/bbcnews.png"
+        },
+
+        {
+            "app_name": "Aaj Tak",
+            "app_link": "https://aajtak.intoday.in/",
+            "category": "news",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/aajtak.png"
+        },
+
+        {
+            "app_name": "CNN",
+            "app_link": "https://edition.cnn.com/",
+            "category": "news",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/cnnnews.png"
+        },
+
+        {
+            "app_name": "The Hindu",
+            "app_link": "https://www.thehindu.com/",
+            "category": "news",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/thehindu.png"
+        },
+
+        {
+            "app_name": "Gaana",
+            "app_link": "https://www.gaana.com/",
+            "category": "music",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/gaana.png"
+        },
+
+        {
+            "app_name": "Jio Saavn",
+            "app_link": "https://www.jiosaavn.com/",
+            "category": "music",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/jiosaavn.png"
+        },
+
+        {
+            "app_name": "Wynk",
+            "app_link": "https://wynk.in/music",
+            "category": "music",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wynk.png"
+        },
+
+        {
+            "app_name": "Amazon Music",
+            "app_link": "https://music.amazon.com/",
+            "category": "music",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/amazonmusic.jpeg"
+        },
+
+        {
+            "app_name": "Spotify",
+            "app_link": "https://open.spotify.com/",
+            "category": "music",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/spotify.png"
         }
 	],
 
