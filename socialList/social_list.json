@@ -114,7 +114,7 @@
 
         {
             "app_name": "Tiktok",
-            "app_link": "https://www.tiktok.com/trending",
+            "app_link": "https://www.tiktok.com/trending/lang=en",
             "category": "social",
             "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tiktok.png"
