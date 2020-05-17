@@ -214,6 +214,30 @@
             "category": "travel",
             "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tripadvisor.png"
+        },
+
+        {
+            "app_name": "Airbnb",
+            "app_link": "https://www.airbnb.com",
+            "category": "travel",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/airbnb.png"
+        },
+
+        {
+            "app_name": "Momondo",
+            "app_link": "https://www.momondo.com",
+            "category": "travel",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/momondo.png"
+        },
+
+        {
+            "app_name": "Couchsurfing",
+            "app_link": "https://www.couchsurfing.com",
+            "category": "travel",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/couchsurfing.png"
         }
 	],
 
