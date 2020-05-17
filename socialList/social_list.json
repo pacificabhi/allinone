@@ -376,7 +376,7 @@
 
         {
             "category": "sports",
-            "priority": 1,
+            "priority": 10,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/sports.png"
         },
 
@@ -394,7 +394,7 @@
 
         {
             "category": "blogs",
-            "priority": 1,
+            "priority": 5,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/blogs.png"
         },
 
@@ -412,7 +412,7 @@
 
         {
             "category": "travel",
-            "priority": 0,
+            "priority": 2,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/travel.png"
         }
     ]
