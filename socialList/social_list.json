@@ -1,9 +1,10 @@
 {
-    "social": [
+    "apps": [
 		{
 			"app_name": "Google",
 			"app_link": "https://www.google.com",
 			"category": "search_engine",
+            "priority": 10,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/google.png"
 		},
 
@@ -11,6 +12,7 @@
 			"app_name": "Facebook",
 			"app_link": "https://m.facebook.com",
 			"category": "social",
+            "priority": 3,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/facebook.png"
 		}, 
 
@@ -18,6 +20,7 @@
 			"app_name": "Instagram",
 			"app_link": "https://www.instagram.com",
 			"category": "social",
+            "priority": 2,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/instagram.png"
 		},
 
@@ -25,6 +28,7 @@
 			"app_name": "Twitter",
 			"app_link": "https://mobile.twitter.com",
 			"category": "social",
+            "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/twitter.png"
 		},
 
@@ -32,6 +36,7 @@
 			"app_name": "Snapchat",
 			"app_link": "https://accounts.snapchat.com",
 			"category": "social",
+            "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/snapchat.png"
 		},
 
@@ -39,6 +44,7 @@
 			"app_name": "Telegram",
 			"app_link": "https://web.telegram.org",
 			"category": "social",
+            "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/telegram.png"
 		},
 
@@ -46,6 +52,7 @@
 			"app_name": "YouTube",
 			"app_link": "https://m.youtube.com",
 			"category": "media",
+            "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/youtube.png"
 		},
 
@@ -53,6 +60,7 @@
 			"app_name": "Linked In",
 			"app_link": "https://www.linkedin.com",
 			"category": "jobs",
+            "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/linkedin.png"
 		},
 
@@ -60,6 +68,7 @@
 			"app_name": "Wikipedia",
 			"app_link": "https://www.wikipedia.org",
 			"category": "education",
+            "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wikipedia.png"
 		},
 
@@ -67,6 +76,7 @@
 			"app_name": "Quora",
 			"app_link": "https://www.quora.com",
 			"category": "education",
+            "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/quora.png"
 		}, 
 
@@ -74,6 +84,7 @@
 			"app_name": "Medium",
 			"app_link": "https://medium.com",
 			"category": "education",
+            "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/medium.png"
 		},
 
@@ -81,6 +92,7 @@
             "app_name": "Tumblr",
             "app_link": "https://www.tumblr.com",
             "category": "social",
+            "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tumblr.png"
         },
 
@@ -88,6 +100,7 @@
             "app_name": "Tinder",
             "app_link": "https://tinder.com",
             "category": "dating",
+            "priority": 5,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tinder.png"
         },
 
@@ -95,6 +108,7 @@
             "app_name": "Gmail",
             "app_link": "https://www.gmail.com",
             "category": "email",
+            "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/gmail.png"
         }
 	],
