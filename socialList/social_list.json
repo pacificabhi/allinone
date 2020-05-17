@@ -412,7 +412,7 @@
 
         {
             "category": "travel",
-            "priority": 10,
+            "priority": 0,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/travel.png"
         }
     ]
