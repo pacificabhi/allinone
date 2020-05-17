@@ -51,7 +51,7 @@
 		{
 			"app_name": "YouTube",
 			"app_link": "https://m.youtube.com",
-			"category": "media",
+			"category": "videos",
             "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/youtube.png"
 		},
@@ -110,7 +110,47 @@
             "category": "email",
             "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/gmail.png"
-        }
+        },
+
+        {
+            "app_name": "Tiktok",
+            "app_link": "https://www.tiktok.com/trending",
+            "category": "social",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tiktok.png"
+        },
+
+        {
+            "app_name": "Skype",
+            "app_link": "https://www.skype.com",
+            "category": "social",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/skype.png"
+        },
+
+        {
+            "app_name": "Discord",
+            "app_link": "https://discord.com/",
+            "category": "social",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/discord.png"
+        },
+
+        {
+            "app_name": "Netflix",
+            "app_link": "https://www.netflix.com",
+            "category": "videos",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/netflix.png"
+        },
+
+        {
+            "app_name": "Prime Video",
+            "app_link": "https://www.primevideo.com",
+            "category": "videos",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/primevideo.png"
+        },
 	],
 
     "categories": [
@@ -125,8 +165,13 @@
         },
 
         {
-            "category": "media",
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/media.png"
+            "category": "videos",
+            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/videos.png"
+        },
+
+        {
+            "category": "music",
+            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/music.png"
         },
 
         {
