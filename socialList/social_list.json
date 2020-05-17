@@ -150,6 +150,46 @@
             "category": "videos",
             "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/primevideo.png"
+        },
+
+        {
+            "app_name": "Amazon",
+            "app_link": "https://www.amazon.com",
+            "category": "shopping",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/amazon.png"
+        },
+
+        {
+            "app_name": "Flipkart",
+            "app_link": "https://www.flipkart.com",
+            "category": "shopping",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/flipkart.png"
+        },
+
+        {
+            "app_name": "Myntra",
+            "app_link": "https://www.myntra.com/",
+            "category": "shopping",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/myntra.png"
+        },
+
+        {
+            "app_name": "Alibaba",
+            "app_link": "https://www.alibaba.com/",
+            "category": "shopping",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/alibaba.png"
+        }, 
+
+        {
+            "app_name": "OLX",
+            "app_link": "https://www.olx.com",
+            "category": "shopping",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/olx.png"
         }
 	],
 
