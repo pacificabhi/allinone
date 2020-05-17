@@ -89,6 +89,13 @@
             "app_link": "https://tinder.com",
             "category": "dating",
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tinder.png"
+        },
+
+        {
+            "app_name": "Gmail",
+            "app_link": "https://www.gmail.com",
+            "category": "email",
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/gmail.png"
         }
 	],
 
