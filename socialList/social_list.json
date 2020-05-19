@@ -355,7 +355,7 @@
         {
             "app_name": "Hackerearth",
             "app_link": "https://www.hackerearth.com/",
-            "category": "sports",
+            "category": "coding",
             "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/hackerearth.png"
         },
@@ -441,7 +441,7 @@
         {
             "category": "earn_money",
             "priority": 7,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/earn_money.png"
+            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/earnmoney.png"
         },
 
         {
