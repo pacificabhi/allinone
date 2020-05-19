@@ -12,7 +12,7 @@
 			"app_name": "Facebook",
 			"app_link": "https://m.facebook.com",
 			"category": "social",
-            "priority": 1,
+            "priority": 2,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/facebook.png"
 		}, 
 
@@ -20,7 +20,7 @@
 			"app_name": "Instagram",
 			"app_link": "https://www.instagram.com",
 			"category": "social",
-            "priority": 1,
+            "priority": 3,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/instagram.png"
 		},
 
@@ -28,7 +28,7 @@
 			"app_name": "Twitter",
 			"app_link": "https://mobile.twitter.com",
 			"category": "social",
-            "priority": 1,
+            "priority": 4,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/twitter.png"
 		},
 
@@ -36,7 +36,7 @@
 			"app_name": "Snapchat",
 			"app_link": "https://accounts.snapchat.com",
 			"category": "social",
-            "priority": 1,
+            "priority": 8,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/snapchat.png"
 		},
 
@@ -44,7 +44,7 @@
 			"app_name": "Telegram",
 			"app_link": "https://web.telegram.org",
 			"category": "social",
-            "priority": 1,
+            "priority": 9,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/telegram.png"
 		},
 
@@ -52,7 +52,7 @@
 			"app_name": "YouTube",
 			"app_link": "https://m.youtube.com",
 			"category": "videos",
-            "priority": 1,
+            "priority": 5,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/youtube.png"
 		},
 
@@ -60,7 +60,7 @@
 			"app_name": "Linked In",
 			"app_link": "https://www.linkedin.com",
 			"category": "jobs",
-            "priority": 1,
+            "priority": 10,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/linkedin.png"
 		},
 
@@ -68,7 +68,7 @@
 			"app_name": "Wikipedia",
 			"app_link": "https://www.wikipedia.org",
 			"category": "education",
-            "priority": 1,
+            "priority": 10000,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wikipedia.png"
 		},
 
@@ -76,7 +76,7 @@
 			"app_name": "Quora",
 			"app_link": "https://www.quora.com",
 			"category": "blogs",
-            "priority": 1,
+            "priority": 10000,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/quora.png"
 		}, 
 
@@ -84,7 +84,7 @@
 			"app_name": "Medium",
 			"app_link": "https://medium.com",
 			"category": "blogs",
-            "priority": 1,
+            "priority": 10000,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/medium.png"
 		},
 
@@ -92,7 +92,7 @@
             "app_name": "Tumblr",
             "app_link": "https://www.tumblr.com",
             "category": "social",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tumblr.png"
         },
 
@@ -100,7 +100,7 @@
             "app_name": "Tinder",
             "app_link": "https://tinder.com",
             "category": "dating",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tinder.png"
         },
 
@@ -108,7 +108,7 @@
             "app_name": "Gmail",
             "app_link": "https://www.gmail.com",
             "category": "email",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/gmail.png"
         },
 
@@ -116,7 +116,7 @@
             "app_name": "Skype",
             "app_link": "https://www.skype.com",
             "category": "social",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/skype.png"
         },
 
@@ -124,7 +124,7 @@
             "app_name": "Discord",
             "app_link": "https://discord.com/",
             "category": "social",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/discord.png"
         },
 
@@ -132,7 +132,7 @@
             "app_name": "Netflix",
             "app_link": "https://www.netflix.com",
             "category": "videos",
-            "priority": 1,
+            "priority": 6,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/netflix.png"
         },
 
@@ -140,7 +140,7 @@
             "app_name": "Prime Video",
             "app_link": "https://www.primevideo.com",
             "category": "videos",
-            "priority": 1,
+            "priority": 7,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/primevideo.png"
         },
 
@@ -148,7 +148,7 @@
             "app_name": "Amazon",
             "app_link": "https://www.amazon.com",
             "category": "shopping",
-            "priority": 1,
+            "priority": 110000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/amazon.png"
         },
 
@@ -156,7 +156,7 @@
             "app_name": "Flipkart",
             "app_link": "https://www.flipkart.com",
             "category": "shopping",
-            "priority": 1,
+            "priority": 12,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/flipkart.png"
         },
 
@@ -164,7 +164,7 @@
             "app_name": "Myntra",
             "app_link": "https://www.myntra.com/",
             "category": "shopping",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/myntra.png"
         },
 
@@ -172,7 +172,7 @@
             "app_name": "Alibaba",
             "app_link": "https://www.alibaba.com/",
             "category": "shopping",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/alibaba.png"
         }, 
 
@@ -180,7 +180,7 @@
             "app_name": "OLX",
             "app_link": "https://www.olx.com",
             "category": "shopping",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/olx.png"
         },
 
@@ -188,7 +188,7 @@
             "app_name": "Sky Scanner",
             "app_link": "https://www.skyscanner.com",
             "category": "travel",
-            "priority": 1,
+            "priority": 13,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/skyscanner.png"
         },
 
@@ -196,7 +196,7 @@
             "app_name": "Make My Trip",
             "app_link": "https://www.makemytrip.com",
             "category": "travel",
-            "priority": 1,
+            "priority": 14,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/makemytrip.png"
         },
 
@@ -204,7 +204,7 @@
             "app_name": "Trip Advisor",
             "app_link": "https://www.tripadvisor.com",
             "category": "travel",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tripadvisor.png"
         },
 
@@ -212,7 +212,7 @@
             "app_name": "Airbnb",
             "app_link": "https://www.airbnb.com",
             "category": "travel",
-            "priority": 1,
+            "priority": 15,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/airbnb.png"
         },
 
@@ -220,7 +220,7 @@
             "app_name": "Momondo",
             "app_link": "https://www.momondo.com",
             "category": "travel",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/momondo.png"
         },
 
@@ -228,7 +228,7 @@
             "app_name": "Couchsurfing",
             "app_link": "https://www.couchsurfing.com",
             "category": "travel",
-            "priority": 1,
+            "priority": 16,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/couchsurfing.png"
         },
 
@@ -236,7 +236,7 @@
             "app_name": "BBC News",
             "app_link": "https://www.bbc.com/news",
             "category": "news",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/bbcnews.png"
         },
 
@@ -244,7 +244,7 @@
             "app_name": "Aaj Tak",
             "app_link": "https://aajtak.intoday.in/",
             "category": "news",
-            "priority": 1,
+            "priority": 17,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/aajtak.png"
         },
 
@@ -252,7 +252,7 @@
             "app_name": "CNN",
             "app_link": "https://edition.cnn.com/",
             "category": "news",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/cnnnews.png"
         },
 
@@ -260,7 +260,7 @@
             "app_name": "The Hindu",
             "app_link": "https://www.thehindu.com/",
             "category": "news",
-            "priority": 1,
+            "priority": 18,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/thehindu.png"
         },
 
@@ -268,7 +268,7 @@
             "app_name": "Gaana",
             "app_link": "https://www.gaana.com/",
             "category": "music",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/gaana.png"
         },
 
@@ -276,7 +276,7 @@
             "app_name": "Jio Saavn",
             "app_link": "https://www.jiosaavn.com/",
             "category": "music",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/jiosaavn.png"
         },
 
@@ -284,7 +284,7 @@
             "app_name": "Wynk",
             "app_link": "https://wynk.in/music",
             "category": "music",
-            "priority": 1,
+            "priority": 7,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wynk.png"
         },
 
@@ -292,7 +292,7 @@
             "app_name": "Amazon Music",
             "app_link": "https://music.amazon.com/",
             "category": "music",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/amazonmusic.jpeg"
         },
 
@@ -300,7 +300,7 @@
             "app_name": "Spotify",
             "app_link": "https://open.spotify.com/",
             "category": "music",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/spotify.png"
         },
 
@@ -308,7 +308,7 @@
             "app_name": "Sportskeeda",
             "app_link": "https://www.sportskeeda.com/",
             "category": "sports",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/sportskeeda.png"
         },
 
@@ -316,7 +316,7 @@
             "app_name": "Cricinfo",
             "app_link": "https://www.espncricinfo.com/",
             "category": "sports",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/espncricinfo.jpeg"
         },
 
@@ -324,9 +324,81 @@
             "app_name": "Cricbuzz",
             "app_link": "https://m.cricbuzz.com/",
             "category": "sports",
-            "priority": 1,
+            "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/cricbuzz.png"
-        }
+        },
+
+        {
+            "app_name": "Atcoder",
+            "app_link": "https://www.atcoder.jp/",
+            "category": "coding",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/atcoder.png"
+        },
+
+        {
+            "app_name": "Codeforces",
+            "app_link": "https://www.codeforces.com/",
+            "category": "coding",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/codeforces.png"
+        },
+
+        {
+            "app_name": "Codechef",
+            "app_link": "https://www.codechef.com/",
+            "category": "coding",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/codechef.com"
+        },
+
+        {
+            "app_name": "Hackerearth",
+            "app_link": "https://www.hackerearth.com/",
+            "category": "sports",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/hackerearth.png"
+        },
+
+        {
+            "app_name": "Hackerrank",
+            "app_link": "https://www.hackerrank.com/",
+            "category": "coding",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/hackerrank.png"
+        },
+
+        {
+            "app_name": "Leetcode",
+            "app_link": "https://www.leetcode.com/",
+            "category": "coding",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/leetcode.png"
+        },
+
+        {
+            "app_name": "Coolrom",
+            "app_link": "https://coolrom.com.au/",
+            "category": "games",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/coolrom.gif"
+        },
+
+        {
+            "app_name": "Freeroms",
+            "app_link": "https://www.freeroms.com/",
+            "category": "games",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/freeroms.png"
+        },
+
+        {
+            "app_name": "Freelancer",
+            "app_link": "https://www.freelancer.com/",
+            "category": "earn_money",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/freelancer.png"
+        },
 	],
 
     "categories": [
@@ -338,85 +410,91 @@
 
         {
             "category": "dating",
-            "priority": 1,
+            "priority": 3,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/dating.png"
         },
 
         {
             "category": "videos",
-            "priority": 1,
+            "priority": 2,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/videos.png"
         },
 
         {
             "category": "music",
-            "priority": 1,
+            "priority": 4,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/music.png"
         },
 
         {
             "category": "games",
-            "priority": 1,
+            "priority": 10,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/games.png"
         },
 
         {
             "category": "coding",
-            "priority": 1,
+            "priority": 11,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/coding.png"
         },
 
         {
+            "category": "earn_money",
+            "priority": 7,
+            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/earn_money.png"
+        },
+
+        {
             "category": "shopping",
-            "priority": 1,
+            "priority": 6,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/shopping.png"
         },
 
         {
             "category": "news",
-            "priority": 1,
+            "priority": 5,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/news.png"
         },
 
         {
             "category": "sports",
-            "priority": 1,
+            "priority": 9,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/sports.png"
         },
 
         {
             "category": "education",
-            "priority": 1,
+            "priority": 8,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/education.png"
         },
 
         {
             "category": "jobs",
-            "priority": 1,
+            "priority": 7,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/jobs.png"
         },
 
         {
             "category": "blogs",
-            "priority": 1,
+            "priority": 12,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/blogs.png"
         },
 
         {
             "category": "email",
-            "priority": 1,
+            "priority": 4,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/email.png"
         },
 
         {
             "category": "search_engine",
-            "priority": 1,
+            "priority": 10,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/search.png"
         },
 
         {
             "category": "travel",
-            "priority": 1,
+            "priority": 5,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/travel.png"
         }
     ]
