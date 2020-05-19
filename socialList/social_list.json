@@ -4,7 +4,7 @@
 			"app_name": "Google",
 			"app_link": "https://www.google.com",
 			"category": "search_engine",
-            "priority": 10,
+            "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/google.png"
 		},
 
@@ -12,7 +12,7 @@
 			"app_name": "Facebook",
 			"app_link": "https://m.facebook.com",
 			"category": "social",
-            "priority": 3,
+            "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/facebook.png"
 		}, 
 
@@ -20,7 +20,7 @@
 			"app_name": "Instagram",
 			"app_link": "https://www.instagram.com",
 			"category": "social",
-            "priority": 2,
+            "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/instagram.png"
 		},
 
@@ -100,7 +100,7 @@
             "app_name": "Tinder",
             "app_link": "https://tinder.com",
             "category": "dating",
-            "priority": 5,
+            "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tinder.png"
         },
 
@@ -110,14 +110,6 @@
             "category": "email",
             "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/gmail.png"
-        },
-
-        {
-            "app_name": "Tiktok",
-            "app_link": "https://www.tiktok.com/trending?lang=en",
-            "category": "social",
-            "priority": 1,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tiktok.png"
         },
 
         {
@@ -363,6 +355,18 @@
         },
 
         {
+            "category": "games",
+            "priority": 1,
+            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/games.png"
+        },
+
+        {
+            "category": "coding",
+            "priority": 1,
+            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/coding.png"
+        },
+
+        {
             "category": "shopping",
             "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/shopping.png"
@@ -376,7 +380,7 @@
 
         {
             "category": "sports",
-            "priority": 10,
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/sports.png"
         },
 
@@ -394,7 +398,7 @@
 
         {
             "category": "blogs",
-            "priority": 5,
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/blogs.png"
         },
 
@@ -412,7 +416,7 @@
 
         {
             "category": "travel",
-            "priority": 2,
+            "priority": 1,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/travel.png"
         }
     ]
