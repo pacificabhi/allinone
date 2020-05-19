@@ -148,7 +148,7 @@
             "app_name": "Amazon",
             "app_link": "https://www.amazon.com",
             "category": "shopping",
-            "priority": 110000,
+            "priority": 11,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/amazon.png"
         },
 
@@ -292,7 +292,7 @@
             "app_name": "Amazon Music",
             "app_link": "https://music.amazon.com/",
             "category": "music",
-            "priority": 10000,
+            "priority": 7,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/amazonmusic.jpeg"
         },
 
@@ -349,7 +349,7 @@
             "app_link": "https://www.codechef.com/",
             "category": "coding",
             "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/codechef.com"
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/codechef.png"
         },
 
         {
