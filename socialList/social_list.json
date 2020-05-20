@@ -435,7 +435,7 @@
         {
             "app_name": "Sarkari Result",
             "app_link": "https://www.sarkariresult.com/",
-            "category": "earn_money",
+            "category": "jobs",
             "priority": 11,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/sarkariresult.png"
         }
