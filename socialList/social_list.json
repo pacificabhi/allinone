@@ -398,6 +398,46 @@
             "category": "earn_money",
             "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/freelancer.png"
+        },
+
+        {
+            "app_name": "Premier League",
+            "app_link": "https://www.premierleague.com/",
+            "category": "sports",
+            "priority": 16,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/premierleague.png"
+        },
+
+        {
+            "app_name": "Reddit",
+            "app_link": "https://www.reddit.com/",
+            "category": "social",
+            "priority": 12,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/reddit.png"
+        },
+
+        {
+            "app_name": "Temp Mail",
+            "app_link": "https://temp-mail.org/en/",
+            "category": "email",
+            "priority": 8,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/temp-mail.png"
+        },
+
+        {
+            "app_name": "Booking.com",
+            "app_link": "https://www.freelancer.com/",
+            "category": "travel",
+            "priority": 15,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/booking.png"
+        },
+
+        {
+            "app_name": "Sarkari Result",
+            "app_link": "https://www.sarkariresult.com/",
+            "category": "earn_money",
+            "priority": 11,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/sarkariresult.png"
         }
 	],
 
