@@ -426,7 +426,7 @@
 
         {
             "app_name": "Booking.com",
-            "app_link": "https://www.freelancer.com/",
+            "app_link": "https://www.booking.com/",
             "category": "travel",
             "priority": 15,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/booking.png"
