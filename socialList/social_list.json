@@ -377,6 +377,15 @@
         },
 
         {
+            "app_name": "Geeks For Geeks",
+            "app_link": "https://www.geeksforgeeks.org/",
+            "category": "coding",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/geeksforgeeks.png"
+        },
+
+
+        {
             "app_name": "Codechef",
             "app_link": "https://www.codechef.com/",
             "category": "coding",
