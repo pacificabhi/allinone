@@ -1,4 +1,4 @@
-{
+2{
     "apps": [
 		{
 			"app_name": "Google",
@@ -72,6 +72,22 @@
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wikipedia.png"
 		},
 
+        {
+            "app_name": "Google Admob",
+            "app_link": "https://admob.google.com/",
+            "category": "earn_money",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/admob.png"
+        },
+
+        {
+            "app_name": "Facebook Audience Network",
+            "app_link": "https://www.facebook.com/audiencenetwork",
+            "category": "earn_money",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/fan.png"
+        },
+
 		{
 			"app_name": "Quora",
 			"app_link": "https://www.quora.com",
@@ -110,6 +126,22 @@
             "category": "email",
             "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/gmail.png"
+        },
+
+        {
+            "app_name": "Fakemail",
+            "app_link": "https://www.fakemail.net/",
+            "category": "email",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/fakemail.png"
+        },
+
+        {
+            "app_name": "CP Algorithms",
+            "app_link": "https://cp-algorithms.com/",
+            "category": "coding",
+            "priority": 10000,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/cpalgorithms.png"
         },
 
         {
