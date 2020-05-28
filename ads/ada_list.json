@@ -3,9 +3,26 @@
 
 		{
 			"title": "IG Post Downloader",
-			"icon_link": "todo",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/igdownloader.png",
 			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.instantdo",
+			"package": "com.dexter.instantdo",
 			"description": "Want to save instagram posts and videos, Install IG Downloader, and save Instagram posts quickly"
+		},
+
+		{
+			"title": "WhatsBack",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/whatsback.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
+			"package": "com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
+			"description": "See deleted Whatsapp messages and media. Also Save Status ussing WhatsBack."
+		},
+
+		{
+			"title": "All in One",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/allinone.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.allinone",
+			"package": "com.dexter.allinone",
+			"description": "Use All social and other apps in one app, Save your phone space."
 		}
 
 	]
