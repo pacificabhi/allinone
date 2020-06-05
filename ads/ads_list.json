@@ -2,11 +2,11 @@
 	"ads": [
 
 		{
-			"title": "IG Post Downloader",
+			"title": "IG Saver",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/igdownloader.png",
 			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.instantdo",
 			"package": "com.dexter.instantdo",
-			"description": "Want to save IG posts and videos, Install IG Downloader, and save IG posts quickly"
+			"description": "Want to save Instagram posts and videos, Install IG Saver, and save Instagram posts quickly"
 		},
 
 		{
@@ -15,6 +15,14 @@
 			"install_link": "https://play.google.com/store/apps/details?id=com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
 			"package": "com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
 			"description": "See deleted messages and media. Also Save Status ussing WhatsBack."
+		},
+
+		{
+			"title": "Story Saver Pro",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/storysaver.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.storysaver",
+			"package": "com.dexter.storysaver",
+			"description": "Save Instagram story quickly. Save stories from private accounts"
 		},
 
 		{
