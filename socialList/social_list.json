@@ -33,12 +33,20 @@
 		},
 
 		{
-			"app_name": "Snapchat",
+			"app_name": "Manage Snapchat Account",
 			"app_link": "https://accounts.snapchat.com",
 			"category": "social",
             "priority": 8,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/snapchat.png"
 		},
+
+        {
+            "app_name": "DuckDuckGo",
+            "app_link": "https://duckduckgo.com",
+            "category": "search_engine",
+            "priority": 5,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/duckduckgo.png"
+        },
 
 		{
 			"app_name": "Telegram",
