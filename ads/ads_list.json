@@ -10,22 +10,6 @@
 		},
 
 		{
-			"title": "WhatsBack",
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/whatsback.png",
-			"install_link": "https://play.google.com/store/apps/details?id=com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
-			"package": "com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
-			"description": "See deleted messages and media. Also Save Status ussing WhatsBack."
-		},
-
-		{
-			"title": "Story Saver Pro",
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/storysaver.png",
-			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.storysaver",
-			"package": "com.dexter.storysaver",
-			"description": "Save Instagram story quickly. Save stories from private accounts"
-		},
-
-		{
 			"title": "All in One",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/allinone.png",
 			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.allinone",
