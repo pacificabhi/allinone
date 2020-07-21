@@ -1,11 +1,20 @@
 {
     "apps": [
-		{
+
+        {
 			"app_name": "Google",
 			"app_link": "https://www.google.com",
 			"category": "search_engine",
             "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/google.png"
+        },
+
+		{
+			"app_name": "Tech Trekker",
+			"app_link": "https://techtrekker.in",
+			"category": "news",
+            "priority": 1,
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/techtrekker.png"
         },
         
         {
