@@ -15,14 +15,6 @@
 			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.instantdo",
 			"package": "com.dexter.instantdo",
 			"description": "Want to save Instagram posts and videos, Install IG Saver, and save Instagram posts quickly"
-		},
-
-		{
-			"title": "All in One",
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/allinone.png",
-			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.allinone",
-			"package": "com.dexter.allinone",
-			"description": "Use All social and other apps in one app, Save your phone space."
 		}
 
 	]
