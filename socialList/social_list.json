@@ -138,14 +138,6 @@
         },
 
         {
-            "app_name": "Tinder",
-            "app_link": "https://tinder.com",
-            "category": "dating",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tinder.png"
-        },
-
-        {
             "app_name": "Gmail",
             "app_link": "https://www.gmail.com",
             "category": "email",
@@ -522,11 +514,6 @@
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/social.png"
         },
 
-        {
-            "category": "dating",
-            "priority": 3,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/dating.png"
-        },
 
         {
             "category": "videos",
