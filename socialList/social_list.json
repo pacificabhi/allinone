@@ -71,6 +71,14 @@
 			"category": "social",
             "priority": 9,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/telegram.png"
+        },
+        
+        {
+			"app_name": "Outlook",
+			"app_link": "https://outlook.live.com/owa/",
+			"category": "email",
+            "priority": 18,
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/outlook.png"
 		},
 
 		{
