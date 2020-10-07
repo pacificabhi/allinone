@@ -87,7 +87,15 @@
 			"category": "email",
             "priority": 18,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/outlook.png"
-		},
+        },
+        
+        {
+            "app_name": "SaveIG",
+            "app_link": "https://play.google.com/store/apps/details?id=com.dexter.instantdo",
+            "category": "ads",
+            "priority": 9,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/igdownloader.png"
+        },
 
 		{
 			"app_name": "Linked In",
