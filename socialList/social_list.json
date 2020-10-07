@@ -74,14 +74,6 @@
 		},
 
 		{
-			"app_name": "YouTube",
-			"app_link": "https://m.youtube.com",
-			"category": "videos",
-            "priority": 5,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/youtube.png"
-		},
-
-		{
 			"app_name": "Linked In",
 			"app_link": "https://www.linkedin.com",
 			"category": "jobs",
