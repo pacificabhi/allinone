@@ -88,12 +88,20 @@
             "priority": 18,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/outlook.png"
         },
+
+        {
+            "app_name": "WhatsBAck",
+            "app_link": "https://play.google.com/store/apps/details?id=com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
+            "category": "ads",
+            "priority": 7,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/whatsback.png"
+        },
         
         {
             "app_name": "SaveIG",
             "app_link": "https://play.google.com/store/apps/details?id=com.dexter.instantdo",
             "category": "ads",
-            "priority": 6,
+            "priority": 3,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/igdownloader.png"
         },
 
