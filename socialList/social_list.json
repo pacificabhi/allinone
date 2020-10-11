@@ -24,14 +24,6 @@
             "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/techtrekker.png"
         },
-        
-        {
-			"app_name": "Bigo Live",
-			"app_link": "https://www.bigo.tv",
-			"category": "social",
-            "priority": 7,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/bigolive.png"
-		},
 
 		{
 			"app_name": "Facebook",
