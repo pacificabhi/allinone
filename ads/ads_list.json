@@ -2,6 +2,15 @@
 	"ads": [
 
 		{
+			"title": "IG Saver",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/igdownloader.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.instantdo",
+			"package": "com.dexter.instantdo",
+			"description": "Want to save Instagram posts and videos, Install IG Saver, and save Instagram posts quickly"
+		},
+
+
+		{
 			"title": "FB Saver",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/fbsaver.png",
 			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
@@ -10,11 +19,19 @@
 		},
 
 		{
-			"title": "IG Saver",
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/igdownloader.png",
-			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.instantdo",
-			"package": "com.dexter.instantdo",
-			"description": "Want to save Instagram posts and videos, Install IG Saver, and save Instagram posts quickly"
+			"title": "All in One",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/allinone.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.allinone",
+			"package": "com.dexter.allinone",
+			"description": "Many apps of daily use at one place, in one app, Install All in One, and save space in your phone"
+		},
+
+		{
+			"title": "WhatsBack",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/whatsback.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
+			"package": "com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
+			"description": "See deleted WhatApp messages and photos, Install WhatsBack"
 		}
 
 	]
