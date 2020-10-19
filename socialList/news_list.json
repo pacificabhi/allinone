@@ -26,6 +26,30 @@
         },
 
         {
+            "app_name": "The Wall Streer Journal",
+            "app_link": "https://www.wsj.com/",
+            "category": "english",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wsj.png"
+        },
+
+        {
+            "app_name": "Global News",
+            "app_link": "https://globalnews.ca/",
+            "category": "english",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/globalnews.png"
+        },
+
+        {
+            "app_name": "Hacker News",
+            "app_link": "https://news.ycombinator.com/",
+            "category": "english",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/hackernews.png"
+        },
+
+        {
             "app_name": "Aaj Tak",
             "app_link": "https://aajtak.intoday.in/",
             "category": "hindi",
