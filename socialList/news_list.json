@@ -5,7 +5,7 @@
 			"app_name": "Wikipedia",
 			"app_link": "https://www.wikipedia.org",
 			"category": "english",
-            "priority": 10000,
+            "priority": 6,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wikipedia.png"
 		}, 
 
@@ -13,7 +13,7 @@
 			"app_name": "Medium",
 			"app_link": "https://medium.com",
 			"category": "english",
-            "priority": 10000,
+            "priority": 12,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/medium.png"
 		},
 
@@ -21,7 +21,7 @@
             "app_name": "BBC News",
             "app_link": "https://www.bbc.com/news",
             "category": "english",
-            "priority": 10000,
+            "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/bbcnews.png"
         },
 
@@ -37,7 +37,7 @@
             "app_name": "CNN",
             "app_link": "https://edition.cnn.com/",
             "category": "english",
-            "priority": 10000,
+            "priority": 2,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/cnnnews.png"
         },
 
@@ -45,7 +45,7 @@
             "app_name": "The Hindu",
             "app_link": "https://www.thehindu.com/",
             "category": "english",
-            "priority": 18,
+            "priority": 3,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/thehindu.png"
         },
 
@@ -53,14 +53,14 @@
             "app_name": "Sportskeeda",
             "app_link": "https://www.sportskeeda.com/",
             "category": "english",
-            "priority": 10000,
+            "priority": 4,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/sportskeeda.png"
         },
 
         {
             "app_name": "Sarkari Result",
             "app_link": "https://www.sarkariresult.com/",
-            "category": "english",
+            "category": "hindi",
             "priority": 11,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/sarkariresult.png"
         }
@@ -70,6 +70,12 @@
         {
             "category": "english",
             "priority": 1,
+            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/english.png"
+        },
+
+        {
+            "category": "hindi",
+            "priority": 2,
             "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/english.png"
         }
     ]
