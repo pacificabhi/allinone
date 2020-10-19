@@ -1,306 +1,26 @@
 {
     "apps": [
 
-        {
-            "app_name": "SaveF",
-            "app_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
-            "category": "ads",
-            "priority": 0,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/fbsaver.png"
-        },
-
-        {
-			"app_name": "Google",
-			"app_link": "https://www.google.com",
-			"category": "search_engine",
-            "priority": 1,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/google.png"
-        },
-
-		{
-			"app_name": "Tech Trekker",
-			"app_link": "https://techtrekker.in",
-			"category": "news",
-            "priority": 1,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/techtrekker.png"
-        },
-
-		{
-			"app_name": "Facebook",
-			"app_link": "https://m.facebook.com",
-			"category": "social",
-            "priority": 2,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/facebook.png"
-		}, 
-
-		{
-			"app_name": "Instagram",
-			"app_link": "https://www.instagram.com",
-			"category": "social",
-            "priority": 3,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/instagram.png"
-		},
-
-		{
-			"app_name": "Twitter",
-			"app_link": "https://mobile.twitter.com",
-			"category": "social",
-            "priority": 4,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/twitter.png"
-		},
-
-		{
-			"app_name": "Manage Snapchat Account",
-			"app_link": "https://accounts.snapchat.com",
-			"category": "social",
-            "priority": 8,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/snapchat.png"
-		},
-
-        {
-            "app_name": "DuckDuckGo",
-            "app_link": "https://duckduckgo.com",
-            "category": "search_engine",
-            "priority": 5,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/duckduckgo.png"
-        },
-
-		{
-			"app_name": "Telegram",
-			"app_link": "https://web.telegram.org",
-			"category": "social",
-            "priority": 9,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/telegram.png"
-        },
-        
-        {
-			"app_name": "Outlook",
-			"app_link": "https://outlook.live.com/owa/",
-			"category": "email",
-            "priority": 18,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/outlook.png"
-        },
-
-        {
-            "app_name": "WhatsBAck",
-            "app_link": "https://play.google.com/store/apps/details?id=com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
-            "category": "ads",
-            "priority": 7,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/whatsback.png"
-        },
-        
-        {
-            "app_name": "SaveIG",
-            "app_link": "https://play.google.com/store/apps/details?id=com.dexter.instantdo",
-            "category": "ads",
-            "priority": 3,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/igdownloader.png"
-        },
-
-		{
-			"app_name": "Linked In",
-			"app_link": "https://www.linkedin.com",
-			"category": "jobs",
-            "priority": 10,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/linkedin.png"
-		},
-
 		{
 			"app_name": "Wikipedia",
 			"app_link": "https://www.wikipedia.org",
-			"category": "education",
+			"category": "english",
             "priority": 10000,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wikipedia.png"
-		},
-
-        {
-            "app_name": "Google Admob",
-            "app_link": "https://admob.google.com/",
-            "category": "earn_money",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/admob.png"
-        },
-
-        {
-            "app_name": "Facebook Audience Network",
-            "app_link": "https://www.facebook.com/audiencenetwork",
-            "category": "earn_money",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/fan.png"
-        },
-
-		{
-			"app_name": "Quora",
-			"app_link": "https://www.quora.com",
-			"category": "blogs",
-            "priority": 10000,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/quora.png"
 		}, 
 
 		{
 			"app_name": "Medium",
 			"app_link": "https://medium.com",
-			"category": "blogs",
+			"category": "english",
             "priority": 10000,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/medium.png"
 		},
 
         {
-            "app_name": "Tumblr",
-            "app_link": "https://www.tumblr.com",
-            "category": "social",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tumblr.png"
-        },
-
-        {
-            "app_name": "Gmail",
-            "app_link": "https://www.gmail.com",
-            "category": "email",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/gmail.png"
-        },
-
-        {
-            "app_name": "Fakemail",
-            "app_link": "https://www.fakemail.net/",
-            "category": "email",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/fakemail.png"
-        },
-
-        {
-            "app_name": "CP Algorithms",
-            "app_link": "https://cp-algorithms.com/",
-            "category": "coding",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/cpalgorithms.webp"
-        },
-
-        {
-            "app_name": "Skype",
-            "app_link": "https://www.skype.com",
-            "category": "social",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/skype.png"
-        },
-
-        {
-            "app_name": "Discord",
-            "app_link": "https://discord.com/",
-            "category": "social",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/discord.png"
-        },
-
-        {
-            "app_name": "Netflix",
-            "app_link": "https://www.netflix.com",
-            "category": "videos",
-            "priority": 6,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/netflix.png"
-        },
-
-        {
-            "app_name": "Prime Video",
-            "app_link": "https://www.primevideo.com",
-            "category": "videos",
-            "priority": 7,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/primevideo.png"
-        },
-
-        {
-            "app_name": "Amazon",
-            "app_link": "https://www.amazon.com",
-            "category": "shopping",
-            "priority": 11,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/amazon.png"
-        },
-
-        {
-            "app_name": "Flipkart",
-            "app_link": "https://www.flipkart.com",
-            "category": "shopping",
-            "priority": 12,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/flipkart.png"
-        },
-
-        {
-            "app_name": "Myntra",
-            "app_link": "https://www.myntra.com/",
-            "category": "shopping",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/myntra.png"
-        },
-
-        {
-            "app_name": "Alibaba",
-            "app_link": "https://www.alibaba.com/",
-            "category": "shopping",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/alibaba.png"
-        }, 
-
-        {
-            "app_name": "OLX",
-            "app_link": "https://www.olx.com",
-            "category": "shopping",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/olx.png"
-        },
-
-        {
-            "app_name": "Sky Scanner",
-            "app_link": "https://www.skyscanner.com",
-            "category": "travel",
-            "priority": 13,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/skyscanner.png"
-        },
-
-        {
-            "app_name": "Make My Trip",
-            "app_link": "https://www.makemytrip.com",
-            "category": "travel",
-            "priority": 14,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/makemytrip.png"
-        },
-
-        {
-            "app_name": "Trip Advisor",
-            "app_link": "https://www.tripadvisor.com",
-            "category": "travel",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/tripadvisor.png"
-        },
-
-        {
-            "app_name": "Airbnb",
-            "app_link": "https://www.airbnb.com",
-            "category": "travel",
-            "priority": 15,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/airbnb.png"
-        },
-
-        {
-            "app_name": "Momondo",
-            "app_link": "https://www.momondo.com",
-            "category": "travel",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/momondo.png"
-        },
-
-        {
-            "app_name": "Couchsurfing",
-            "app_link": "https://www.couchsurfing.com",
-            "category": "travel",
-            "priority": 16,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/couchsurfing.png"
-        },
-
-        {
             "app_name": "BBC News",
             "app_link": "https://www.bbc.com/news",
-            "category": "news",
+            "category": "english",
             "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/bbcnews.png"
         },
@@ -308,7 +28,7 @@
         {
             "app_name": "Aaj Tak",
             "app_link": "https://aajtak.intoday.in/",
-            "category": "news",
+            "category": "hindi",
             "priority": 17,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/aajtak.png"
         },
@@ -316,7 +36,7 @@
         {
             "app_name": "CNN",
             "app_link": "https://edition.cnn.com/",
-            "category": "news",
+            "category": "english",
             "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/cnnnews.png"
         },
@@ -324,295 +44,33 @@
         {
             "app_name": "The Hindu",
             "app_link": "https://www.thehindu.com/",
-            "category": "news",
+            "category": "english",
             "priority": 18,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/thehindu.png"
         },
 
         {
-            "app_name": "Gaana",
-            "app_link": "https://www.gaana.com/",
-            "category": "music",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/gaana.png"
-        },
-
-        {
-            "app_name": "Jio Saavn",
-            "app_link": "https://www.jiosaavn.com/",
-            "category": "music",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/jiosaavn.png"
-        },
-
-        {
-            "app_name": "Wynk",
-            "app_link": "https://wynk.in/music",
-            "category": "music",
-            "priority": 7,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wynk.png"
-        },
-
-        {
-            "app_name": "Amazon Music",
-            "app_link": "https://music.amazon.com/",
-            "category": "music",
-            "priority": 7,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/amazonmusic.jpeg"
-        },
-
-        {
-            "app_name": "Spotify",
-            "app_link": "https://open.spotify.com/",
-            "category": "music",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/spotify.png"
-        },
-
-        {
             "app_name": "Sportskeeda",
             "app_link": "https://www.sportskeeda.com/",
-            "category": "sports",
+            "category": "english",
             "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/sportskeeda.png"
         },
 
         {
-            "app_name": "Cricinfo",
-            "app_link": "https://www.espncricinfo.com/",
-            "category": "sports",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/espncricinfo.jpeg"
-        },
-
-        {
-            "app_name": "Cricbuzz",
-            "app_link": "https://m.cricbuzz.com/",
-            "category": "sports",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/cricbuzz.png"
-        },
-
-        {
-            "app_name": "Atcoder",
-            "app_link": "https://www.atcoder.jp/",
-            "category": "coding",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/atcoder.png"
-        },
-
-        {
-            "app_name": "Codeforces",
-            "app_link": "https://www.codeforces.com/",
-            "category": "coding",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/codeforces.png"
-        },
-
-        {
-            "app_name": "Geeks For Geeks",
-            "app_link": "https://www.geeksforgeeks.org/",
-            "category": "coding",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/geeksforgeeks.png"
-        },
-
-
-        {
-            "app_name": "Codechef",
-            "app_link": "https://www.codechef.com/",
-            "category": "coding",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/codechef.png"
-        },
-
-        {
-            "app_name": "Hackerearth",
-            "app_link": "https://www.hackerearth.com/",
-            "category": "coding",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/hackerearth.png"
-        },
-
-        {
-            "app_name": "Hackerrank",
-            "app_link": "https://www.hackerrank.com/",
-            "category": "coding",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/hackerrank.png"
-        },
-
-        {
-            "app_name": "Leetcode",
-            "app_link": "https://www.leetcode.com/",
-            "category": "coding",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/leetcode.png"
-        },
-
-        {
-            "app_name": "Coolrom",
-            "app_link": "https://coolrom.com.au/",
-            "category": "games",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/coolrom.gif"
-        },
-
-        {
-            "app_name": "Freeroms",
-            "app_link": "https://www.freeroms.com/",
-            "category": "games",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/freeroms.png"
-        },
-
-        {
-            "app_name": "Freelancer",
-            "app_link": "https://www.freelancer.com/",
-            "category": "earn_money",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/freelancer.png"
-        },
-
-        {
-            "app_name": "Premier League",
-            "app_link": "https://www.premierleague.com/",
-            "category": "sports",
-            "priority": 16,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/premierleague.png"
-        },
-
-        {
-            "app_name": "Reddit",
-            "app_link": "https://www.reddit.com/",
-            "category": "social",
-            "priority": 12,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/reddit.png"
-        },
-
-        {
-            "app_name": "Temp Mail",
-            "app_link": "https://temp-mail.org/en/",
-            "category": "email",
-            "priority": 8,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/temp-mail.png"
-        },
-
-        {
-            "app_name": "Booking.com",
-            "app_link": "https://www.booking.com/",
-            "category": "travel",
-            "priority": 15,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/booking.png"
-        },
-
-        {
             "app_name": "Sarkari Result",
             "app_link": "https://www.sarkariresult.com/",
-            "category": "jobs",
+            "category": "english",
             "priority": 11,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/sarkariresult.png"
-        },
-
-        {
-            "app_name": "WhatsApp Web",
-            "app_link": "https://web.whatsapp.com/",
-            "category": "social",
-            "priority": 6,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/whatsappweb.png"
         }
 	],
 
     "categories": [
         {
-            "category": "social",
+            "category": "english",
             "priority": 1,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/social.png"
-        },
-
-
-        {
-            "category": "videos",
-            "priority": 2,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/videos.png"
-        },
-
-        {
-            "category": "music",
-            "priority": 4,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/music.png"
-        },
-
-        {
-            "category": "games",
-            "priority": 10,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/games.png"
-        },
-
-        {
-            "category": "coding",
-            "priority": 11,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/coding.png"
-        },
-
-        {
-            "category": "earn_money",
-            "priority": 7,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/earnmoney.png"
-        },
-
-        {
-            "category": "shopping",
-            "priority": 6,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/shopping.png"
-        },
-
-        {
-            "category": "news",
-            "priority": 5,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/news.png"
-        },
-
-        {
-            "category": "sports",
-            "priority": 9,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/sports.png"
-        },
-
-        {
-            "category": "education",
-            "priority": 8,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/education.png"
-        },
-
-        {
-            "category": "jobs",
-            "priority": 7,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/jobs.png"
-        },
-
-        {
-            "category": "blogs",
-            "priority": 12,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/blogs.png"
-        },
-
-        {
-            "category": "email",
-            "priority": 4,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/email.png"
-        },
-
-        {
-            "category": "search_engine",
-            "priority": 10,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/search.png"
-        },
-
-        {
-            "category": "travel",
-            "priority": 5,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/travel.png"
+            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/english.png"
         }
     ]
 }
