@@ -50,6 +50,22 @@
         },
 
         {
+            "app_name": "The Indian Express",
+            "app_link": "https://indianexpress.com/",
+            "category": "english",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/indianexpress.png"
+        },
+
+        {
+            "app_name": "The Times of India",
+            "app_link": "https://timesofindia.indiatimes.com",
+            "category": "english",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/toi.png"
+        },
+
+        {
             "app_name": "Global News",
             "app_link": "https://globalnews.ca/",
             "category": "english",

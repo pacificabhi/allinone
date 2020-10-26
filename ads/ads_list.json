@@ -2,13 +2,20 @@
 	"ads": [
 
 		{
+			"title": "All NewsX",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/allnewsx.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.allnewsx",
+			"package": "com.dexter.allnewsx",
+			"description": "Get All news at one place, Download All NewsX from play store"
+		},
+
+		{
 			"title": "IG Saver",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/igdownloader.png",
 			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.instantdo",
 			"package": "com.dexter.instantdo",
 			"description": "Want to save Instagram posts and videos, Install IG Saver, and save Instagram posts quickly"
 		},
-
 
 		{
 			"title": "FB Saver",
