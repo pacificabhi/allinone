@@ -82,11 +82,11 @@
         },
 
         {
-            "app_name": "WhatsBAck",
-            "app_link": "https://play.google.com/store/apps/details?id=com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
+            "app_name": "SaveF - Save Facebook Videos",
+            "app_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
             "category": "ads",
             "priority": 7,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/whatsback.png"
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/fbsaver.png"
         },
         
         {
