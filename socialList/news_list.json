@@ -34,6 +34,14 @@
         },
 
         {
+            "app_name": "Google News",
+            "app_link": "https://news.google.com/topstories",
+            "category": "english",
+            "priority": 1,
+            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/googlenews.png"
+        },
+
+        {
             "app_name": "The Guardian",
             "app_link": "https://www.theguardian.com/",
             "category": "english",
