@@ -13,7 +13,7 @@
             "app_name": "All NewsX",
             "app_link": "https://play.google.com/store/apps/details?id=com.dexter.allnewsx",
             "category": "ads",
-            "priority": 0,
+            "priority": 1,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/allnewsx.png"
         },
 
@@ -82,7 +82,7 @@
         },
 
         {
-            "app_name": "SaveF - Save Facebook Videos",
+            "app_name": "SaveF - Save FB Videos",
             "app_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
             "category": "ads",
             "priority": 2,
