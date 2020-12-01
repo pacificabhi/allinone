@@ -85,15 +85,15 @@
             "app_name": "SaveF - Save FB Videos",
             "app_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
             "category": "ads",
-            "priority": 2,
+            "priority": 7,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/fbsaver.png"
         },
         
         {
-            "app_name": "SaveIG",
-            "app_link": "https://play.google.com/store/apps/details?id=com.dexter.instantdo",
+            "app_name": "Story Saver Pro",
+            "app_link": "https://play.google.com/store/apps/details?id=com.dexter.storysaver",
             "category": "ads",
-            "priority": 7,
+            "priority": 2,
             "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/igdownloader.png"
         },
 
