@@ -2,6 +2,14 @@
 	"ads": [
 
 		{
+			"title": "SaveF",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/fbsaver.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
+			"package": "com.dexter.fbsaver",
+			"description": "Install SaveF, and save Facebook videos quickly"
+		},
+
+		{
 			"title": "All NewsX",
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/allnewsx.png",
 			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.allnewsx",
@@ -17,13 +25,6 @@
 			"description": "Save Stories from Instagram Quickly"
 		},
 
-		{
-			"title": "SaveF",
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/fbsaver.png",
-			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
-			"package": "com.dexter.fbsaver",
-			"description": "Install SaveF, and save Facebook videos quickly"
-		},
 
 		{
 			"title": "All in One",
