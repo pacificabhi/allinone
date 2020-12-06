@@ -42,5 +42,58 @@
 			"description": "See deleted WhatApp messages and photos, Install WhatsBack"
 		}
 
+	],
+
+	"more_cool_apps": [
+
+		{
+			"title": "SaveF",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/fbsaver.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
+			"package": "com.dexter.fbsaver",
+			"description": "Install SaveF, and save Facebook videos quickly"
+		},
+
+		{
+			"title": "All NewsX",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/allnewsx.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.allnewsx",
+			"package": "com.dexter.allnewsx",
+			"description": "Get All news at one place, Download All NewsX from play store"
+		},
+
+		{
+			"title": "SaveIG",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/igdownloader.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.instantdo",
+			"package": "com.dexter.instantdo",
+			"description": "Save reel, posts from Instagram Quickly"
+		},
+
+		{
+			"title": "Story Saver",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/storysaver.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.storysaver",
+			"package": "com.dexter.storysaver",
+			"description": "Save Stories from Instagram Quickly"
+		},
+
+
+		{
+			"title": "All in One",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/allinone.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.dexter.allinone",
+			"package": "com.dexter.allinone",
+			"description": "Many apps of daily use at one place, in one app, Install All in One, and save space in your phone"
+		},
+
+		{
+			"title": "WhatsBack",
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/whatsback.png",
+			"install_link": "https://play.google.com/store/apps/details?id=com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
+			"package": "com.abhishekad7.whatsappdeletedmessagerecoveryandstatussaver",
+			"description": "See deleted WhatApp messages and photos, Install WhatsBack"
+		}
+
 	]
 }
