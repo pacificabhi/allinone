@@ -9,14 +9,6 @@
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/google.png"
         },
 
-        {
-            "app_name": "All NewsX",
-            "app_link": "https://play.google.com/store/apps/details?id=com.dexter.allnewsx",
-            "category": "ads",
-            "priority": 1,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/allnewsx.png"
-        },
-
 		{
 			"app_name": "Tech Trekker",
 			"app_link": "https://techtrekker.in",
@@ -81,21 +73,7 @@
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/outlook.png"
         },
 
-        {
-            "app_name": "SaveF - Save FB Videos",
-            "app_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
-            "category": "ads",
-            "priority": 2,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/fbsaver.png"
-        },
         
-        {
-            "app_name": "Story Saver Pro",
-            "app_link": "https://play.google.com/store/apps/details?id=com.dexter.storysaver",
-            "category": "ads",
-            "priority": 7,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/igdownloader.png"
-        },
 
 		{
 			"app_name": "Linked In",
