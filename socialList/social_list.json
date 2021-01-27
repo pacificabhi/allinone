@@ -34,10 +34,10 @@
         },
         {
 			"app_name": "SaveF",
-			"app_link": "https://play.google.com/store/apps/details?id=com.dexter.savef",
+			"app_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
 			"category": "ads",
             "priority": 2,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/savef.png"
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/fbsaver.png"
 		}, 
 
 		{
