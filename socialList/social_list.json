@@ -9,6 +9,14 @@
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/google.png"
         },
 
+        {
+			"app_name": "All NewsX",
+			"app_link": "https://play.google.com/store/apps/details?id=com.dexter.allnewsx",
+			"category": "ads",
+            "priority": 1,
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/allnewsx.png"
+		}, 
+
 		{
 			"app_name": "Tech Trekker",
 			"app_link": "https://techtrekker.in",
@@ -23,6 +31,13 @@
 			"category": "social",
             "priority": 2,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/facebook.png"
+        },
+        {
+			"app_name": "SaveF",
+			"app_link": "https://play.google.com/store/apps/details?id=com.dexter.savef",
+			"category": "ads",
+            "priority": 2,
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/savef.png"
 		}, 
 
 		{
