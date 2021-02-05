@@ -32,12 +32,13 @@
             "priority": 2,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/facebook.png"
         },
+
         {
-			"app_name": "SaveF",
-			"app_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
+			"app_name": "Math Puzzles",
+			"app_link": "https://play.google.com/store/apps/details?id=com.mindtree.brainmath",
 			"category": "ads",
             "priority": 2,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/fbsaver.png"
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/brainmath.png"
 		}, 
 
 		{
@@ -62,7 +63,15 @@
 			"category": "social",
             "priority": 8,
 			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/snapchat.png"
-		},
+        },
+        
+        {
+			"app_name": "SaveF",
+			"app_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
+			"category": "ads",
+            "priority": 5,
+			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/ads/images/fbsaver.png"
+		}, 
 
         {
             "app_name": "DuckDuckGo",
