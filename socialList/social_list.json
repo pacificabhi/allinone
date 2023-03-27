@@ -9,14 +9,6 @@
 			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/google.png"
         },
 
-        {
-			"app_name": "All NewsX",
-			"app_link": "https://play.google.com/store/apps/details?id=com.dexter.allnewsx",
-			"category": "ads",
-            "priority": 1,
-			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/ads/images/allnewsx.png"
-		}, 
-
 		{
 			"app_name": "Facebook",
 			"app_link": "https://m.facebook.com",
@@ -24,14 +16,6 @@
             "priority": 2,
 			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/facebook.png"
         },
-
-        {
-			"app_name": "Math Puzzles",
-			"app_link": "https://play.google.com/store/apps/details?id=com.mindtree.brainmath",
-			"category": "ads",
-            "priority": 2,
-			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/ads/images/brainmath.png"
-		}, 
 
 		{
 			"app_name": "Instagram",
@@ -56,14 +40,6 @@
             "priority": 8,
 			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/snapchat.png"
         },
-        
-        {
-			"app_name": "SaveF",
-			"app_link": "https://play.google.com/store/apps/details?id=com.dexter.fbsaver",
-			"category": "ads",
-            "priority": 5,
-			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/ads/images/fbsaver.png"
-		}, 
 
         {
             "app_name": "DuckDuckGo",
