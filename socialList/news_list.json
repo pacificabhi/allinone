@@ -6,7 +6,7 @@
 			"app_link": "https://www.wikipedia.org",
 			"category": "english",
             "priority": 6,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wikipedia.png"
+			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/wikipedia.png"
 		}, 
 
 		{
@@ -14,7 +14,7 @@
 			"app_link": "https://medium.com",
 			"category": "english",
             "priority": 12,
-			"icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/medium.png"
+			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/medium.png"
 		},
 
         {
@@ -22,7 +22,7 @@
             "app_link": "https://www.bbc.com/news",
             "category": "english",
             "priority": 1,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/bbcnews.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/bbcnews.png"
         },
 
         {
@@ -30,7 +30,7 @@
             "app_link": "https://www.theverge.com/",
             "category": "english",
             "priority": 1,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/theverge.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/theverge.png"
         },
 
         {
@@ -38,7 +38,7 @@
             "app_link": "https://www.wsj.com/",
             "category": "english",
             "priority": 1,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/wsj.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/wsj.png"
         },
 
         {
@@ -46,7 +46,7 @@
             "app_link": "https://news.google.com/topstories",
             "category": "english",
             "priority": 1,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/googlenews.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/googlenews.png"
         },
 
         {
@@ -54,7 +54,7 @@
             "app_link": "https://www.theguardian.com/",
             "category": "english",
             "priority": 1,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/theguardian.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/theguardian.png"
         },
 
         {
@@ -62,7 +62,7 @@
             "app_link": "https://www.nytimes.com/",
             "category": "english",
             "priority": 1,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/nytimes.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/nytimes.png"
         },
 
         {
@@ -70,7 +70,7 @@
             "app_link": "https://indianexpress.com/",
             "category": "english",
             "priority": 1,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/indianexpress2.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/indianexpress2.png"
         },
 
         {
@@ -78,7 +78,7 @@
             "app_link": "https://timesofindia.indiatimes.com",
             "category": "english",
             "priority": 1,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/toi.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/toi.png"
         },
 
         {
@@ -86,7 +86,7 @@
             "app_link": "https://globalnews.ca/",
             "category": "english",
             "priority": 1,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/globalnewsca.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/globalnewsca.png"
         },
 
         {
@@ -94,7 +94,7 @@
             "app_link": "https://news.ycombinator.com/",
             "category": "english",
             "priority": 1,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/hackernews.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/hackernews.png"
         },
 
         {
@@ -102,7 +102,7 @@
             "app_link": "https://aajtak.intoday.in/",
             "category": "hindi",
             "priority": 17,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/aajtak.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/aajtak.png"
         },
 
         {
@@ -110,7 +110,7 @@
             "app_link": "https://edition.cnn.com/",
             "category": "english",
             "priority": 2,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/cnnnews.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/cnnnews.png"
         },
 
         {
@@ -118,7 +118,7 @@
             "app_link": "https://www.thehindu.com/",
             "category": "english",
             "priority": 3,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/thehindu.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/thehindu.png"
         },
 
         {
@@ -126,7 +126,7 @@
             "app_link": "https://www.sportskeeda.com/",
             "category": "english",
             "priority": 4,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/sportskeeda.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/sportskeeda.png"
         },
 
         {
@@ -134,7 +134,7 @@
             "app_link": "https://www.sarkariresult.com/",
             "category": "hindi",
             "priority": 11,
-            "icon_link": "https://raw.githubusercontent.com/abhishekad7/allinone/master/icons/sarkariresult.png"
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/sarkariresult.png"
         }
 	],
 
@@ -142,13 +142,13 @@
         {
             "category": "english",
             "priority": 1,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/english.png"
+            "icon": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/english.png"
         },
 
         {
             "category": "hindi",
             "priority": 2,
-            "icon": "https://raw.githubusercontent.com/abhishekad7/allinone/master/categories/hindi.png"
+            "icon": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/hindi.png"
         }
     ]
 }
