@@ -486,7 +486,7 @@
 
         {
             "app_name": "WhatsApp Web",
-            "app_link": "https://web.whatsapp.com/",
+            "app_link": "https://web.whatsapp.com//en/",
             "category": "social",
             "priority": 6,
             "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/whatsappweb.png"
