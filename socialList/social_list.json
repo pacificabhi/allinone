@@ -42,6 +42,14 @@
         },
 
         {
+            "app_name": "ChatGPT",
+            "app_link": "https://chat.openai.com/",
+            "category": "ai",
+            "priority": 5,
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/chatgpt.png"
+        },
+
+        {
             "app_name": "DuckDuckGo",
             "app_link": "https://duckduckgo.com",
             "category": "search_engine",
@@ -500,6 +508,11 @@
             "icon": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/social.png"
         },
 
+        {
+            "category": "ai",
+            "priority": 1,
+            "icon": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/ai.png"
+        },
 
         {
             "category": "videos",
