@@ -28,7 +28,7 @@
         {
 			"app_name": "Microsoft Bing",
 			"app_link": "https://www.instagram.com",
-			"category": "social",
+			"category": "search_engine",
             "priority": 2,
 			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/microsoft.png"
 		},
