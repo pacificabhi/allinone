@@ -50,7 +50,15 @@
         },
 
         {
-            "app_name": "ChatGPT",
+            "app_name": "Bard AI",
+            "app_link": "https://bard.google.com/",
+            "category": "ai",
+            "priority": 7,
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/bard.png"
+        },
+
+        {
+            "app_name": "Chat GPT",
             "app_link": "https://chat.openai.com/",
             "category": "ai",
             "priority": 5,
