@@ -58,6 +58,14 @@
         },
 
         {
+            "app_name": "Character AI",
+            "app_link": "https://beta.character.ai/",
+            "category": "ai",
+            "priority": 6,
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/characterai.png"
+        },
+
+        {
             "app_name": "Chat GPT",
             "app_link": "https://chat.openai.com/",
             "category": "ai",
