@@ -9,6 +9,14 @@
 			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/google.png"
         },
 
+        {
+            "app_name": "Jio Cinema",
+            "app_link": "https://www.jiocinema.com/",
+            "category": "videos",
+            "priority": 12,
+            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/jiocinema.png"
+        },
+
 		{
 			"app_name": "Facebook",
 			"app_link": "https://m.facebook.com",
