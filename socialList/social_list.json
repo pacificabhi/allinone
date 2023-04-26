@@ -10,6 +10,14 @@
         },
 
         {
+			"app_name": "All In One - Feedback",
+			"app_link": "https://forms.gle/oXicrHbCmovqBKeF7",
+			"category": "ads",
+            "priority": 1,
+			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/feedback.png"
+        },
+
+        {
             "app_name": "Jio Cinema",
             "app_link": "https://www.jiocinema.com/",
             "category": "videos",
