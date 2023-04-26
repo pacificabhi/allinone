@@ -12,7 +12,7 @@
         {
 			"app_name": "All In One - Feedback",
 			"app_link": "https://forms.gle/oXicrHbCmovqBKeF7",
-			"category": "ads",
+			"category": "feedback",
             "priority": 1,
 			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/feedback.png"
         },
@@ -636,6 +636,12 @@
             "category": "travel",
             "priority": 5,
             "icon": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/travel.png"
+        },
+
+        {
+            "category": "feedback",
+            "priority": 15,
+            "icon": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/feedback.png"
         }
     ]
 }
