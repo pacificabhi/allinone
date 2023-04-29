@@ -25,6 +25,14 @@
             "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/jiocinema.png"
         },
 
+        {
+			"app_name": "Amazon India",
+			"app_link": "https://amzn.to/3HpxO54",
+			"category": "shopping",
+            "priority": 4,
+			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/amazonindia.png"
+		},
+
 		{
 			"app_name": "Facebook",
 			"app_link": "https://m.facebook.com",
