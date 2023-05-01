@@ -10,14 +10,6 @@
         },
 
         {
-			"app_name": "All In One - Feedback",
-			"app_link": "https://docs.google.com/forms/d/e/1FAIpQLSeQ8teOC884VmF_A4qH7gWHkKNXE8iVKX6HMC5irrwg0FIcbw/viewform?usp=sf_link",
-			"category": "feedback",
-            "priority": 1,
-			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/feedback.png"
-        },
-
-        {
             "app_name": "Jio Cinema",
             "app_link": "https://www.jiocinema.com/",
             "category": "videos",
@@ -27,9 +19,9 @@
 
         {
 			"app_name": "Amazon India",
-			"app_link": "https://amzn.to/3HpxO54",
+			"app_link": "https://www.amazon.in",
 			"category": "shopping",
-            "priority": 4,
+            "priority": 10,
 			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/amazonindia.png"
 		},
 
