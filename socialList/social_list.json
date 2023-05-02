@@ -90,10 +90,18 @@
         },
 
         {
+			"app_name": "Wordle",
+			"app_link": "https://www.nytimes.com/games/wordle/index.html",
+			"category": "games",
+            "priority": 6,
+			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/wordle.png"
+		},
+
+        {
             "app_name": "DuckDuckGo",
             "app_link": "https://duckduckgo.com",
             "category": "search_engine",
-            "priority": 5,
+            "priority": 6,
             "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/duckduckgo.png"
         },
 
