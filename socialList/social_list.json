@@ -98,6 +98,22 @@
 		},
 
         {
+			"app_name": "Spelling Bee",
+			"app_link": "https://www.nytimes.com/puzzles/spelling-bee",
+			"category": "games",
+            "priority": 10,
+			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/spellingbee.png"
+		},
+
+        {
+			"app_name": "Sudoku",
+			"app_link": "https://www.nytimes.com/puzzles/sudoku",
+			"category": "games",
+            "priority": 11,
+			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/sudoku.png"
+		},
+
+        {
             "app_name": "DuckDuckGo",
             "app_link": "https://duckduckgo.com",
             "category": "search_engine",
@@ -474,22 +490,6 @@
             "category": "coding",
             "priority": 10000,
             "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/leetcode.png"
-        },
-
-        {
-            "app_name": "Coolrom",
-            "app_link": "https://coolrom.com.au/",
-            "category": "games",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/coolrom.gif"
-        },
-
-        {
-            "app_name": "Freeroms",
-            "app_link": "https://www.freeroms.com/",
-            "category": "games",
-            "priority": 10000,
-            "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/freeroms.png"
         },
 
         {
