@@ -19,7 +19,7 @@
 
         {
 			"app_name": "Amazon India",
-			"app_link": "https://www.amazon.in",
+			"app_link": "https://amzn.to/40U6HWZ",
 			"category": "shopping",
             "priority": 10,
 			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/amazonindia.png"
@@ -536,7 +536,7 @@
             "app_name": "Sarkari Result",
             "app_link": "https://www.sarkariresult.com/",
             "category": "jobs",
-            "priority": 11,
+            "priority": 15,
             "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/sarkariresult.png"
         },
 
@@ -544,7 +544,7 @@
             "app_name": "WhatsApp Web",
             "app_link": "https://web.whatsapp.com//en/",
             "category": "social",
-            "priority": 6,
+            "priority": 12,
             "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/whatsappweb.png"
         }
 	],
