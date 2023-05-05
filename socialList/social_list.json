@@ -21,7 +21,7 @@
 			"app_name": "Amazon India",
 			"app_link": "https://amzn.to/40U6HWZ",
 			"category": "shopping",
-            "priority": 10,
+            "priority": 5,
 			"icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/amazonindia.png"
 		},
 
