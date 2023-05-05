@@ -644,12 +644,6 @@
             "category": "travel",
             "priority": 5,
             "icon": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/travel.png"
-        },
-
-        {
-            "category": "feedback",
-            "priority": 15,
-            "icon": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/feedback.png"
         }
     ]
 }
