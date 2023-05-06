@@ -141,7 +141,7 @@
             "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/icons/admob.png"
         },
         "facebook_audience_network": {
-            "app_name": "Facebook Audience Network",
+            "app_name": "Meta Audience Network",
             "app_link": "https://www.facebook.com/audiencenetwork",
             "category": "earn_money",
             "priority": 10000,
